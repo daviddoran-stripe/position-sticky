@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/position-sticky/static/media/idcard-front.26507baa.jpg"
   },
   {
-    "revision": "45e2d413de5b613cdca5",
-    "url": "/position-sticky/static/css/main.4ac0562f.chunk.css"
+    "revision": "de95ee14b42629338f5f",
+    "url": "/position-sticky/static/css/main.f6e97669.chunk.css"
   },
   {
     "revision": "faf541032b3993558f35",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/position-sticky/static/media/idcard-back.75f1f922.jpg"
   },
   {
-    "revision": "45e2d413de5b613cdca5",
+    "revision": "de95ee14b42629338f5f",
     "url": "/position-sticky/static/js/main.ed741270.chunk.js"
   },
   {
@@ -40,15 +40,15 @@ self.__precacheManifest = [
     "url": "/position-sticky/static/media/camphor-500.6fb1eb9e.woff2"
   },
   {
-    "revision": "9294715d0a56b9e1baf251bf464417d0",
-    "url": "/position-sticky/static/media/camphor-400.9294715d.woff"
-  },
-  {
     "revision": "fa5ceb75f907b58e8fde7dd9d103698b",
     "url": "/position-sticky/static/media/camphor-500.fa5ceb75.woff"
   },
   {
-    "revision": "de947f3b2b9505f48cecb2d3fc15db6f",
+    "revision": "9294715d0a56b9e1baf251bf464417d0",
+    "url": "/position-sticky/static/media/camphor-400.9294715d.woff"
+  },
+  {
+    "revision": "e011a4918870f2a904f4cfb7c82c1898",
     "url": "/position-sticky/index.html"
   }
 ];
