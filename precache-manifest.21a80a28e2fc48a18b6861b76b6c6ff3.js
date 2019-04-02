@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/position-sticky/static/media/passport-book.0b817e83.jpg"
   },
   {
-    "revision": "154850187dd5423f3902",
+    "revision": "81c2d3fd63c518e9a506",
     "url": "/position-sticky/static/css/main.e49c71af.chunk.css"
   },
   {
@@ -28,31 +28,31 @@ self.__precacheManifest = [
     "url": "/position-sticky/static/media/idcard-front.26507baa.jpg"
   },
   {
-    "revision": "154850187dd5423f3902",
-    "url": "/position-sticky/static/js/main.b3f6b69f.chunk.js"
+    "revision": "81c2d3fd63c518e9a506",
+    "url": "/position-sticky/static/js/main.c6de1c1f.chunk.js"
   },
   {
     "revision": "1f411e46f2f3964efaaa0ff763532053",
     "url": "/position-sticky/static/media/clippy.1f411e46.png"
   },
   {
-    "revision": "cdd982e68427f60ae5d4d33701acb68f",
-    "url": "/position-sticky/static/media/camphor-400.cdd982e6.woff2"
+    "revision": "fa5ceb75f907b58e8fde7dd9d103698b",
+    "url": "/position-sticky/static/media/camphor-500.fa5ceb75.woff"
   },
   {
-    "revision": "9294715d0a56b9e1baf251bf464417d0",
-    "url": "/position-sticky/static/media/camphor-400.9294715d.woff"
+    "revision": "cdd982e68427f60ae5d4d33701acb68f",
+    "url": "/position-sticky/static/media/camphor-400.cdd982e6.woff2"
   },
   {
     "revision": "6fb1eb9e884da9e9400d25df11336af0",
     "url": "/position-sticky/static/media/camphor-500.6fb1eb9e.woff2"
   },
   {
-    "revision": "fa5ceb75f907b58e8fde7dd9d103698b",
-    "url": "/position-sticky/static/media/camphor-500.fa5ceb75.woff"
+    "revision": "9294715d0a56b9e1baf251bf464417d0",
+    "url": "/position-sticky/static/media/camphor-400.9294715d.woff"
   },
   {
-    "revision": "6eb74909edfb239c6737a12858f5e0e7",
+    "revision": "5df8ab325b268f1eac2431c7e6749cab",
     "url": "/position-sticky/index.html"
   }
 ];
